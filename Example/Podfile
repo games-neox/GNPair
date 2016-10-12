@@ -1,0 +1,5 @@
+use_frameworks!
+target 'GNPair_Tests' do
+  pod 'GNPair', :path => '../'
+
+end
